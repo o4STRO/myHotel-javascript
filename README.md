@@ -1,12 +1,10 @@
-﻿# myHotel-javascript
+# myHotel-javascript
  
-  *HTML
-  
-  *CSS
-  
-  *JAVASCRIPT
-  
-  --------
+  * HTML
+  * CSS
+  * JAVASCRIPT
+
+--------
   
  Utilização dos métodos date() em javascript para definir termino de uma promoção do hotel.
  
